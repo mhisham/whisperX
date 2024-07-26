@@ -82,15 +82,15 @@ See other methods [here.](https://pytorch.org/get-started/previous-versions/#v20
 
 ### 3. Install this repo
 
-`pip install git+https://github.com/m-bain/whisperx.git`
+`pip install git+https://github.com/mhisham/whisperx.git`
 
 If already installed, update package to most recent commit
 
-`pip install git+https://github.com/m-bain/whisperx.git --upgrade`
+`pip install git+https://github.com/mhisham/whisperx.git --upgrade`
 
 If wishing to modify this package, clone and install in editable mode:
 ```
-$ git clone https://github.com/m-bain/whisperX.git
+$ git clone https://github.com/mhisham/whisperX.git
 $ cd whisperX
 $ pip install -e .
 ```
